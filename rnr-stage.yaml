@@ -13,3 +13,6 @@ modules:
   regfile:    {source_files: [rtl/regfile.sv]}
   extend:     {source_files: [rtl/extend.sv]}
   controller: {source_files: [rtl/controller.sv]} 
+
+  alu:         {source_files: [rtl/alu.sv]}
+  mux3:        {source_files: [rtl/mux3.sv]}
